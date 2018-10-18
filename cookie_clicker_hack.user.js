@@ -7,6 +7,8 @@
 // @match        http://orteil.dashnet.org/cookieclicker/
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/xswzaq44321/Cookie-Clicker-Hack/master/cookie_clicker_hack.user.js
+// @downloadURL  https://raw.githubusercontent.com/xswzaq44321/Cookie-Clicker-Hack/master/cookie_clicker_hack.user.js
 // ==/UserScript==
 
 $(document).ready(function() {
