@@ -2,8 +2,8 @@
 // @name         cookie clicker hack
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  automating cookie production
-// @author       You
+// @description  auto click cookie, golden cookie and auto buy products, upgrades.
+// @author       xswzaq44321
 // @match        http://orteil.dashnet.org/cookieclicker/
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @grant        none
